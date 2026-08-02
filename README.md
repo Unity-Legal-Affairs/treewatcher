@@ -25,14 +25,14 @@ Installation
 I suggest to use virtualenv. It will help keeping your distribution happy :)
 Install inotifyx (see Dependencies) and install treewatcher :
 
-	$ git clone git://github.com/jbd/treewatcher.git
+	$ git clone git://github.com/Unity-Legal-Affairs/treewatcher.git
 	$ cd treewatcher && python setup.py install
 
 Here is a complete example using virtualenv and virtualenvwrapper from http://www.doughellmann.com/projects/virtualenvwrapper/
 
 	$ mkvirtualenv test
 	$ easy_install pip
-	$ git clone git://github.com/jbd/treewatcher.git
+	$ git clone git://github.com/Unity-Legal-Affairs/treewatcher.git
 	$ cd treewatcher
 	$ python setup.py install
 
